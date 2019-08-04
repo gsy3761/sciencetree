@@ -1,0 +1,2 @@
+- 使用visual stdio code的指南
+    - 在cmd控制台中输入code .就可以打开vscode了

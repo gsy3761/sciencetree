@@ -1,0 +1,1 @@
+直接得到windows的电池情况的指令:powercfg /batteryreport
